@@ -1,5 +1,6 @@
 
-# NEWS MOOD
+# HW7_Social_Analytics 
+## NEWS MOOD
 
 The assignment consists in perform a sentiment analysis of the Twitter activity of the following news oulets: BBC, CBS, CNN, Fox, and New York Times, and to present the final output a visualized summary of the sentiments expressed in Tweets.
 
