@@ -4,7 +4,7 @@ citipy==0.0.5
 idna==2.6
 jupyter==1.0.0
 kdtree==0.16
-nltk==3.2.5
+nltk==3.4.5
 oauthlib==2.0.6
 openweathermapy==0.6.6
 pyreadline==2.1
